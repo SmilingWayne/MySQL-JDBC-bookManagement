@@ -77,7 +77,7 @@ public class deleteProcedure {
             s.printStackTrace();
 
         }finally {
-            scan.close();
+
             DBConn.close();
         }
 
